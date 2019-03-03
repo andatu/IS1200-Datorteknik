@@ -17,7 +17,6 @@ int y=0;                // Varibel för att spara x-värdet
 int dw = 0;             // Sätts till 1 när interuption för switch4 sker
 int dw2 = 0;            // Sätts till ett om interuptions för switch 4 sker i läget där operation väljs
 char binaryNum[16] = {48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48};  // Används för att konvertera från dec till bin
-char ledlights[16] = {48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48};
 int done = 0;
 int counterhex;
 
